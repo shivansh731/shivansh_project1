@@ -42,6 +42,7 @@ body {
   background-attachment: fixed;
   overflow-x: hidden;
 }
+
 body::-webkit-scrollbar-track {
   border-radius: 10px;
 }
